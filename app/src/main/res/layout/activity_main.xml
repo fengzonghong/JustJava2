@@ -68,9 +68,6 @@
         android:layout_below="@+id/textView3"
         android:layout_marginLeft="0dp"
         android:text="0"
-        android:layout_toEndOf="@+id/textView2"
-        android:layout_toRightOf="@+id/textView2"
-        android:layout_alignRight="@id/quantity_text_view"
         android:paddingLeft="10dp"
         android:textColor="@android:color/black"
         android:textSize="@dimen/abc_text_size_medium_material"/>
